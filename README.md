@@ -2,7 +2,10 @@
 
 Autocomplete is a component for input autocompletion and can be used as an element of UI kit.
 
+Stack: `React` + `TypeScript`
+
 ## Demo
+https://mscbr.github.io/autocomplete/
 
 ## v1 Autocomplete Docs
 

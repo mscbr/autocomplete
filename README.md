@@ -6,7 +6,6 @@ Stack: `React` + `TypeScript`
 
 ## Demo
 https://mscbr.github.io/autocomplete/
-*for presentational purpose connected to "Rick & Morty API"
 
 ## v1 Autocomplete Docs
 

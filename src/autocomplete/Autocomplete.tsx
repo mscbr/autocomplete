@@ -11,7 +11,7 @@ interface Props {
   sort?: boolean;
 }
 const Autocomplete: React.FC<Props> = props => {
-  // destructuring
+  
   const {
     value,
     label,
